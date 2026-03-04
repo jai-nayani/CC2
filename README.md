@@ -178,7 +178,7 @@ npm start
 <summary><b>Step 1: Clone Repository</b></summary>
 
 ```bash
-git clone https://github.com/jai-nayani/CC2.git
+git clone https://github.com/varsha-km1/CC2.git
 cd CC2
 ```
 
