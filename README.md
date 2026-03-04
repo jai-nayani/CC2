@@ -145,7 +145,7 @@ Get up and running in 5 minutes:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/jai-nayani/CC2.git
+git clone https://github.com/varsha-km1/CC2.git
 cd CC2
 
 # 2️⃣ Install backend dependencies
